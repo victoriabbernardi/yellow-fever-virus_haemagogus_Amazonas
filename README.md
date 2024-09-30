@@ -5,4 +5,4 @@ data/:
 -Results of RT-qPCR analyses.
 -Dataset used for phylogenetic analyses.
 -Consensus sequences of the yellow fever virus (YFV) from positive Haemagogus.
--Consensus sequences of the cytochrome c oxidase subunit I (COI) gene from Haemagogus positive for yellow fever virus (YFV).
+-Sequences of the cytochrome c oxidase subunit I (COI) gene from Haemagogus positive for yellow fever virus (YFV).
