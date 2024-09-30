@@ -1,5 +1,6 @@
 Description: This repository contains data collected from a study on the identification of yellow fever virus (YFV) in Haemagogus mosquitoes in the region of Manaus, Amazonas, Brazil.
-Contents
+
+Contents:
 data/:
 -Results of RT-qPCR analyses.
 -Dataset used for phylogenetic analyses.
